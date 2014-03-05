@@ -2,6 +2,8 @@ Untitled*
 *~
 *.py[cod]
 
+.ipynb_checkpoints
+
 # C extensions
 *.so
 
